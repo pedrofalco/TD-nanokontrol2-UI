@@ -36,6 +36,8 @@ El componente se puede utilizar indistintamente de múltiples maneras:
 ### Importante 🚧
 Es importante no tocar el componente `basicWidgets`.
 
+👋 *Si lo usas, si tenés algún tipo de feedback o problema, hacemelo llegar por favor :)*
+
 ---
 
 `EN`
@@ -75,5 +77,7 @@ The component can be used interchangeably in multiple ways:
 
 ### Important 🚧
 It is important not to touch the `basicWidgets` component.
+
+👋 *If you use it or if you have any feedback or problem, please let me know :)*
 
 🛴🛴🛴🛴🛴🛴🛴🛴🛴🛴🛴🛴🛴🛴🛴🛴🛴🛴🛴🛴🛴🛴🛴🛴🛴🛴🛴🛴🛴🛴🛴🛴🛴🛴🛴🛴🛴
