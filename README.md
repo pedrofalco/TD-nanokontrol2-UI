@@ -36,6 +36,9 @@ El componente se puede utilizar indistintamente de múltiples maneras:
 ### Importante 🚧
 Es importante no tocar el componente `basicWidgets`.
 
+### pequeña hoja de ruta 📍
+- Agregar una manera simple de re-mapear/ajustar los rangos de los valores.
+
 👋 *Si lo usas, si tenés algún tipo de feedback o problema, hacemelo llegar por favor :)*
 
 ---
@@ -77,6 +80,9 @@ The component can be used interchangeably in multiple ways:
 
 ### Important 🚧
 It is important not to touch the `basicWidgets` component.
+
+### tiny roadmap 📍
+- Add a simple way to remap/rearrange values.
 
 👋 *If you use it or if you have any feedback or problem, please let me know :)*
 
