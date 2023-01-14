@@ -1,5 +1,7 @@
 ## TD nanoKontrol2 UI 🕹
 
+![ui-demo](https://user-images.githubusercontent.com/61484371/212439396-81dd0ba1-a35a-42fe-9af3-18f4132b738b.png)
+
 `ES`
 Esta es una herramienta para comunicar y mapear automáticamente valores MIDI controlados por el controlador [Korg nanoKontrol2](https://www.korg.com/ar/products/computergear/nanokontrol2/) y [TouchDesigner](https://derivative.ca/).
 El repositorio contiene dos componentes `.tox` los cuales son ambos necesarios. `midiIn_nanoKontrol2.tox` se encarga de reconocer el dispositivo MIDI, normalizar los valores entre 0-1 y exportar esa data a `nanoKontrol2.tox` -interfaz gráfica.
